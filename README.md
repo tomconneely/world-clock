@@ -1,8 +1,7 @@
 # World-clock
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
-Test for new github commit
+This comes from the example on MDN https://developer.mozilla.org/en-US/Apps/Build/Modern_web_app_architecture/Creating_an_Ember_app
 
 ## Prerequisites
 
